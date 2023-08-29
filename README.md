@@ -43,10 +43,10 @@ For me this is the hardest to do, because I am not well at planning. I am going 
 ### Wireframe your website 
 I would like to use moqupes to Wireframe my website.  
 
-![Index.html](D:\Porfolio website\Wireframe\1.png)
-![Index.html](D:\Porfolio website\Wireframe\2.png)
+![Index.html](D:\Porfoliowebsite\Wireframe\1.png)
+![Index.html](D:\Porfoliowebsite\Wireframe\2.png)
 
-![Contact.html](D:\Porfolio website\Wireframe\3.png)
+![Contact.html](D:\Porfoliowebsite\Wireframe\3.png)
 
 ### Create files and deploy it Locally
 After I made the Wireframes, I created 2 HTML files, 1 CSS file and a JS file (using Git). I'll add images for my portfolio sometime later. 
